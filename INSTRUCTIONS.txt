@@ -1,0 +1,18 @@
+MOD: Graphical Revamps
+Author: Garro
+Creatd: 11/27/2010
+
+=============
+INSTRUCTIONS:
+=============
+-Make a backup of the graphic if you don't like the revamps and want to change back to the original graphics.
+-Merge the folders with the folders in the Seve Sages directory.  Choose to copy and replace the old files.
+
+==================
+AUTHOR'S COMMENTS:
+==================
+Well when i started playing, something that bugged me was the bad quality of recolours, the missing black outlines or quality change between animations. So when I started playing again I decided to fix the graphics as I played.
+
+Mostly the things I fixed where trees, grass mario/luigi sprites, the goomba sprite/monster color mismatch and battle scenes.
+
+Make a backup of the graphic if you don't like my revamps and want to change back to the original graphics.
