@@ -1,10 +1,12 @@
-# SMRPG-Seven-Sages-EE
-The Extended Edition of Super Mario RPG - The Seven Sages, a Super Mario RPG Fangame. This is placed on GitHub for withholding until ICU Gigasoft returns.
-Three saved data files are included.
+# Super Mario RPG: The Seven Sages
+The collected files from Super Mario RPG - The Seven Sages, a Super Mario RPG Fangame. This is placed on GitHub for withholding until ICU Gigasoft returns, unless permitted to stay active here. Two versions of the game, vanilla and extended edition, and three saved data files are included in this repository.
+
+This is NOT an official release of SMRPGSS or SMRPGSSEE.
+Original blog post: http://udivision.blogspot.com/2009/08/smrpg-seven-sages-download-page.html
 
 ### Repository and Source
 
-You are only allowed to use the source as outlined by ICU Gigasoft on their social media platform accounts under the same name (ICU Gigasoft).
+You are only allowed to use the source as outlined by ICU Gigasoft on their social media platform accounts under the same name (ICU Gigasoft) and by partner or affiliated partner divisions (I-Division, C-Division, U-Division).
 This repository was created to store the game and source data of SMRPGSS-EE, since it was missing from the ICU Gigasoft official website and forums.
 
 ## Legal
