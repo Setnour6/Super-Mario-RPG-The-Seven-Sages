@@ -7,7 +7,7 @@ Original blog post: http://udivision.blogspot.com/2009/08/smrpg-seven-sages-down
 ### Repository and Source
 
 You are only allowed to use the source as outlined by ICU Gigasoft on their social media platform accounts under the same name (ICU Gigasoft) and by partner or affiliated partner divisions (I-Division, C-Division, U-Division).
-This repository was created to store the game and source data of SMRPGSS-EE, since it was missing from the ICU Gigasoft official website and forums.
+This repository was created to store the game and source data of SMRPGSS and SMRPGSS-EE, since it was missing from the ICU Gigasoft official website and forums.
 
 ## Legal
 
