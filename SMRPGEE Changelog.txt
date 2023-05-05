@@ -1,0 +1,234 @@
+Changelog:
+
+v1.2.4 (Beta Test):
+
+
+-Keep an eye out for the words "intelligence" and "MP." Intelligence should be stated as "special," and MP should be stated as "FP"
+-Make sure that if you find any special attack dealing absurd damage or having overpowered effects, you note it down and report it to me so I can fix it!
+-Please note down any special attacks with strange animations
+-If you find any map glitches, such as tiles you can walk through or invisible wall tiles, then please screenshot them! You can do so by pressing "print screen" on your keyboard, then pasting in a program liike Microsoft Paint.
+
+
+Basic Summary:
+-43 New Skills in total that can be used by heroes, another 22 new monster skills!
+-New skills added to existing classes AND to 5 new classes
+-Changed many monster skills to inflict more status conditions, but with less overall damage
+-Many new status conditions that both the heroes and the monsters can inflict on their opponents
+-Modified stat curves of both normal and Star Rank
+-Many of Mario's and Luigi's skills were modified to have increased special or physical attack influence
+-Previous bugs in the original version fixed, such as music bugs.
+-Changed Music in numerous areas and places
+-15 new pieces of gear, over 30 new items in total!
+-New area: Isolated Isle.
+-New gear shop!
+
+Complete Breakdown:
+
+v1.2.4:
+-Fixed starting graphical glitch where Mario would show up in the top left corner of the intro screen
+-Added a progress checklist so you can check what unlockables you have yet to find
+
+v1.2.3:
+-Game-Breaking Dark Star Bug (supposedly) fixed
+-New game spawn point fixed
+-Ameoba "cheat" block removed. It was accidentally left there from the developer testing phase.
+
+v1.2.2:
+-Try your luck at fighting the new form of culex! You'll have to beat hard mode boss rush first, and then you can fight him by talking to the black Luigi (not yet tested; possibly very buggy)
+-Cure nerfed: -2 turn duration from original 8 turn duration, HP recovery reduced from 12% of your max HP per turn to 6%, FP recovery reduced from 10% of your max FP to 4%. FP cost reduced by 10% its previous amount
+-Cleanse buffed to now only cost 8% Luigi's max FP, down from 13%
+-All bosses buffed slightly
+-Debilitate nerfed greatly, losing 60% of its original effect. Flame wall buffed the caster's defense with an effect rating of 3 and a special scaling of 4, but debilitate previously lowered all stats by an effect rating of a whopping 10 and has special scaling of 5. Now its effect rating is 4. FP cost reduced from 28 to 25 to compensate slightly.
+-Curse FP drain increased by 30%, up from 10% to 13% of the target's max FP
+-MP typo on Luigi's Starlight fixed to now say FP
+-Starlight's effect rating buffed 20%, from 5 to 6.
+-Regen was glitched and would last infinitely or just not get inflicted on your time. Now fixed to last 5 turns, restoring 15% max FP + 3 set extra FP per turn for the entire party.
+-Burn status effect duratin glitch fixed to last infinitely, but has a 15% chance of recovery each turn. Damage dealt is 5% max HP + 5 more set HP.
+-Refresh turn duration buffed from 5 turns to 99 turns, but you still have a 100% chance of losing it once taking damage
+-Frozen status effect FP drain increased 60%, from 5% max FP to 8% max FP.
+-Ice Mario and Ice Luigi's frost wall nerfed to 3 effect rating from 4; spamming this move with both Ice Mario and Ice Luigi could lead to a super-buffed tanky Luigi that had ridiculously powerful spells
+-Aqua Arrow's effect rating buffed from 22 to 25; this skill was very helpful in utilizing Croak Mario's high-FP cost skills, but was simply not recovering enough for good usage of the class
+-Frog Mire greatly nerfed from 13 down to 5 effect rating; spamming this skill with its low FP cost and Croak's passive regeneration enabled you to slow down single bosses like the nega orb to the point where you could move a ridiculous amount of times before the boss could even attack. Stack this with aqua arrow to drain FP and bosses could barely use skills when they did get the chance to attack.
+-Bubble Burst modified to no longer drain the massive amounts of FP it once did. It's effect rating has been increased from 115 to a whopping 173, and now has a chance to inflict curse, but in exchange lost the ensured FP drain and gains +35 more FP cost, from 68 to 103. This is because Croak was advertised as a hard-hitter, but really lacked power skills.
+-Ghost Flame may also curse now, and has increased effect rating from 58 to 87, and now has a chance to curse along with the burn chance. In exchange, its FP cost also increased from 18 to 24. This was because the P. 5000 suit is attained very late in the game and thus Ghost Flame's previously weak power did not suit it. 
+-All previous equipment has lost the ability to halve FP costs. This effect on certain equipment was entirely game-breaking and made the game a cinch. In exchange, these certain pieces of equipment gained increased stats.
+-Yellow coin, Crimson coin, and Tadpole coin all gained buffs to the special they give. They now give 20, 42, and 65 respectively.
+-Isolated Isle monsters all buffed; once getting the new equipment from the store, particularly caster equips for Luigi, you could take out groups of monsters ridiculously easily and quickly. EXP rewards boosted slightly to compensate.
+-Culex and Blue Nega Orb severely buffed by increasing almost all stats by a moderately small amount, while Culex's crystals all gain +200 HP. These bosses were highlights of being tough, but the new equipment from the MK Armory made them much easier to handle.
+-Animation glitch fixed on Mario's basic fireball
+-Flame Punch's effect rating increased from 51 to 63
+-Neutralize's FP cost reduced from 15% Mario's max FP down to 12%
+-Bubble shield's FP cost increased from 11 to 14
+-Frog Hygiene's Attack and Special influence decreased from 10 to 8; FP cost increased from 73 to 87
+-Flame wall's FP cost reduced from 22 to 19
+-Mario's Super Jump Punch increased effect rating and FP cost; Effect rating increased from 40 to 44, FP cost from 12 to 14
+-Flip Kick's effect rating increased from 88 to 94
+-Cape Swipe's effect rating increased from 31 to 34
+-Mario Finale's FP cost reduced from 45% of Mario's max FP down to 40%
+-Luigi Cyclone's FP cost increased by 3, effect rating increased from 48 to 62, Special influence increased from 9 to 10
+-Power Poke's FP cost increased from 27 to 31, Special influence increased from 8 to 10
+-Green Missile's random +75 damage increased to random +90 damage. Chance of bonus 90 damage increased from 50% to 65%
+-Luigi's Super Jump Punch? Increased hit rate from 25% to 35% and increased effect rating from 330 to 375; simply did not hit high enough nor did the 1/2 stat debuff last long enough based off of the high FP cost and low hit rate.
+-Negative zone's stat lowering effect rating decreased from 3 to 2. FP cost decreased from 85% of Luigi's max FP down to 70%
+-Acid Rain's Attack influence increased from 1 to 2, special influence decreased from 4 to 2, increased variance from 2 to 3, reduced defense lowering effect rating from 5 to 4
+-Corrode status effect nerfed: 5% max HP + 35 damage per turn reduced to 4% + 30, 10% max FP + 20 reduced down to 7% + 15
+-Death Acid's status effect nerfed from 8% + 300 HP down to 7% + 315 HP. Bosses with more than 1500 HP will be less affected by this skill now
+-FP poison FP cost buffed from 15% Mario's Max to a whopping 65%, nerfed to drain 5% per turn for 20 turns rather than 25% per turn for 4 turns; This was necessary because spending only 15% of your max FP to render a caster boss useless was overwhelming
+-Refill Acid glitch fixed (hopefully). Nerfed from 40% per turn for 2 turns down to 35% per turn for 2 turns
+-Vigorous pin changed from its old state to an item that's only purpose is to be sold; increased selling cost from 2000 to 3500, description changed.
+-Gag boots stats reversed to now reduce attack and boost special for Luigi
+-Fixed the P. 5000 eradicator skill to not 1-shot kill non-ghost enemies.
+-Added new feature: Options shack! Here you can change some system options such as Battle Music, and System GFX sets
+-Added 7 new GFX sets! You only start out with the default and 1 new one, so you'll have to search across the world to find those 6 secret ones.
+
+
+v1.2.1:
+
+-Glitchy A.C.I.D. Refill skill fixed... I think
+-Multiple typos fixed
+-You can now correctly leave the information desk room
+-Recognition for Master Mario 97! Talk to the blue toad in the Hero's Room section of Extended Edition
+-Nerfed aqua koopas for their ability to deal 150+ damage to everyone in a single turn
+-Buffed many skills' damage values
+-Cold Lightning on Luigi's Ice Suit now does damage instead of lowering attack.
+-More hints given to those harder to find info-toads and other secrets. 
+
+v1.2.0:
+-Typos on the Beanie in the new section of the Hero's Room fixed
+-New Area: Isolated Isle! This area has extremely tough enemies and will truly bring out all of the features from present and previous versions of Extended Edition!
+-Several typos fixed on skills, such as changing "MP" back to "FP," and "intelligence" to "special"
+-Since I increased the size of the world map to include the new area, I've also slightly modified some pre-existing mapped areas on the world map (such as the Cactus and Evergreen Kingdom).
+-10 info-toads have been scattered around Isolated Isle! Can you find them all? 
+-2 info-toad items wil let you access 2 new areas. 1 will teach you a new skill if brought to the right person. 5 (including an item not given by an info-toad but by someone else) will let you craft a new suit, and the last 3 will let you access a special equipment shop.
+-6 new enemies including a boss. Each enemy has a couple skills and the boss has a massive collection of different skills
+-"Reflect" skill on cape suits changed to last 2 turns and Mario/Luigi cannot take an action while reflecting. Costs 8 FP instead of 14 FP as well.
+-22 new enemy skills, including 11 on an un-released boss which will be mentioned sometime in a future update
+-Several new tunes added!
+-Change to star rank to change the basic battle BGM!
+-Multiple new maps to introduce Isolated Isle! I've added a pipe leading there somewhere in the Mushroom Kingdom! It shouldn't be too hard to find if you just breeze through each area; the pipe is in plain sight and is not hidden in any way, although you may need to complete a certain part of the story before you can reach the pipe.
+-"Reflect" skill disabled against the Isolated Isle boss.
+-Jerry no longer holds any particular significance. He is now entirely safe to talk to.
+-Green fireball skill on Luigi's Smash Suit now has a fixed animation.
+-New Portable Bridge mechanic! You will find spots on the map like how you do for jump pads. The portable bridge can then be used there to access new areas!
+-Minor bug fixes such as the special suit room warp not opening if the only special suit you have is the Smash Suit.
+-2 hidden relaxation rooms with neat music!
+-Berry, a new member of Jerry's cave, can vend you information in exchange for Berry Tokens which are dropped by monsters or can be found around the world through other methods.
+-The Mushroom Kingdom Armory, which hosts 15 very strong pieces of gear, is now open (if you have the key) in Peach's castle gardens
+-Added the "Lab Changing Room" to the current "Secret Changing Room." The Lab Room will host the evolved suits that are made by E.Gadd. Therefore, since this new room exists, the P. 5000 suit is moved to that new changing room.
+-Nerfed Negative Zone on Luigi's Smash Suit to have a much higher FP cost and to lower all of the opponents' stats by a little less
+-Greatly Buffed Super Jump Punch so that it's more worth it to have landed successfully
+-Buffed Power Poke and other similar skills which stated to deal "massive" damage but really were quite weak. Their FP cost has been slightly increased to reflect the changes
+-Many of Mario's Smash Suit Skills were buffed slightly in damage, Mario Finale gains an increased 5% FP cost.
+-Aqua Arrow's effect is buffed by about 10%
+-Ice Shot is buffed by about 20%, resulting in more FP drained
+-Frog Mire Buffed by about 30%, with a 3 FP cost increase
+-Increased damage of Ghost Flame by around 12%, increased FP cost of 1
+-P. 5000 eradicator gains a decrease in FP cost by 5
+-Around +10% damage on Boo Storm, increased FP cost of 2.
+-The P. 5000 suit no longer decreases Luigi's attack by 4 when equipped.
+-+30% more effect on Luigi's Frost Bolt, increased FP cost of 2.
+-10% raw damage nerf, increased attack influence, and decreased FP cost of 2 on Luigi's Absolute Zero skill
+-Buffed Mario's Absolute Zero by 9%, +2 FP cost
+-Buffed Mario's Shatter by a very small amount, increase in +1 more FP cost.
+
+v1.1.0:
+-Refresh's max duration increased from 3 turns to 5
+-Ice Suit animations on Mario fixed
+-12 new skills (6 each for Mario and Luigi) for the new suit! Can you find out where to get it?
+-New Title Screen! It looks pretty ugly but I'll try to make it look better in future updates.
+-New animations for the new skills! Includes custom-made animations from the original game GFX.
+-Changed music in numerous places. Title screen music, battle music, and others have also been changed.
+-New secret room added. Find it to claim the new suit!
+-New section added to the Hero's Room! This will give helpful hints particularly for the MOD, including what new status conditions do, what are the perks of the new suits, and much more!
+
+v1.0.6:
+-Frost wall's FP cost now reduced but so has the overall effect.
+-Frost wall fixed for Luigi to work on the right targets and to have the correct animation.
+-Starlight nerfed
+-Regenerate buffed
+-Green thunder buffed
+-Luigi's super fire ball's total effect rating increased
+-Flame punch buffed
+-Luigi's ultra fire ball buffed
+-Mario's internal chill nerfed
+-Music in the monster arena fixed
+-Neutralize fixed to now remove rather than inflict the beneficial status conditions.
+-Mario parties now remove all status effects, including the new ones.
+-Haunted House music changed to be more appropriate
+-Tonics (super soda, koopa tea, etc...) do not remove the new status effects. Their description has been changed to "most" instead of "all" ailments.
+-Cleanse now correctly clears all ailments
+-Bubble Burst, aqua arrow, boo storm, and a ghastly flame all buffed.
+-Frog Hygiene buffed.
+-Shatter buffed
+
+v1.0.5:
+-Flurry's text cutoff in the secret changing room fixed.
+-Database fix for the graphic of being affected by Mario's refresh. Before it looked like a negative status effect.
+-Animation fix on the ice suits.
+-Jerry's quests locked after a certain point due to a glitch in the cutscenes
+-Merry is now always available for use.
+
+
+v1.0.4:
+-A minor glitch was fixed which previously prevented Mario and Luigi from learning a large amount of new skills in the Plumber class.
+
+v1.0.3:
+-You can now get the ice suit if you kill chompington as Luigi
+
+v1.0.2:
+-Now Chompington no longer glitches after killing it
+-Some text edits and other very minor things
+
+v1.0.1:
+-frog graphics in the tower of the frogs fixed
+-Text cutoffs in most to all areas fixed
+-Starting point moved to the right map, but still having trouble finding the right tile
+-Many "cheat" spots meant for developers to use to test have been removed
+-One more map included that was accidentally left out
+-The path to Jerry's cave is restored
+
+
+v1.0:
+-Luigi's MP has been modified at a much higher rate and grows fairly exponentially
+-Luigi's overall attack has been greatly reduced, but grows logarithmically to make Luigi effective at the beginning of the game
+-Luigi's base intelligence is moderately increased, and scales at a slight exponential curve
+-Luigi's overall defense has been slightly decreased
+-Mario's starting MP reduced by 2; max MP reduced by 17
+-Mario's overall attack has increased, with a +2 starting attack points and a +25 at max level.
+-Mario's overall intelligence slightly reduced, now starting with 2 less points and 16 less at max level
+-Mario's agility has increased, with +2 at starting agility and +15 total at max level
+-Mario's super jump increases in effect rating by 5, intelligence influence decreased to 1
+-Mario's multibounce stats changed to reflect super jump changes 
+-Mario's ultra jump effect rating increased by 12 to 50, and intelligence influence is decreased to 1
+-All of Mario's non-class specific jump attacks now have 0 variance in damage
+-All of Luigi's jump attacks have max variance, except for multibounce which has 5 variance
+-Luigi's fireball effect rating increased by 8 to 30, attack influence reduced to 1.
+-Luigi's super fireball effect rating increased by 9 to 38, attack influence reduced to 1.
+-Luigi's ultra fire ball effect rating increased by 8 to 40, attack influence decreased to 1.
+-Many of Luigi's skills have increased effect rating but decreased attack influence.
+-Frog Hygiene removed to help promote usage of Luigi's healing/buff skills.
+-New Luigi Skill: Starlight. This skill removes MP from all foes and is heavily intelligence-influenced. Learned at level 22.
+-New Mario Skill: Flame Punch. This skill deals fire damage like fireball, but is based heavily off of attack influence. Learned at level 22 with a slightly higher effect rating than super fireball.
+-New Luigi Skill: Regenerate. This skill costs 85% max FP of Luigi and slowly regenerates 4% + 1 FP per turn for all characters until the end of the fight. Learned at level 30.
+-New Frog Mario Skill: Bubble Shield. This skill replaces frog hygiene and will boost resistance to all elements of an ally for a low cost. Even influence from attack and intelligence with small variance.
+-New Mario Skill: Neutralize. This skill removes all status effects that benefit opponents, including ghosted and stat buffs, as well as pretty much any other similar condition. Learned at level 30, and costs 15% max FP.
+-New Mr. L Skill: Green Thunder. This skill has a high effect rating, is based mostly off of intelligence, has high MP cost and variance, and will drain MP with a chance of paralysis. Targets a single enemy and can be learned at level 54.
+-New Fire Luigi skill: Flame Wall. This skill moderately increases defense and fire/water resist of all allies. 
+-New Fire Mario skill: Firestorm. This skill has about the same effect rating and overall damage as mega fireball, but costs more MP and attacks all foes.
+-New Fire Mario Skill: Super Scorch. This skill applies a new condition: burn (which is pretty much just a slightly modified poison effect) on all foes and lowers their intelligence.
+-New Luigi Skill: Debilitate. This skill greatly reduces all stats of a single target. 
+-New Poltergust 3000 Skill: Ghastly Curse. This skill somewhat greatly reduces a single opponent's intelligence and "curses" them, a new condition which will quickly drain away the target's MP and expires after a set number of turns.
+-Ghost Trick Fixed to now actually ghost your party. Before it was removing rather than inflicting ghost among it.
+-New Mario Skill: Refresh. Consume a small % of Mario's FP to refresh allies, causing them to quickly regen MP until hit.
+-New Luigi Skill: Cure. Consume almost all MP to rapidly regen HP and MP for a few turns.
+-New Luigi Skill: Cleanse. Consumes a small % of Luigi's FP to cure all status effects.
+-6 new skills in total for the new ice suit: Ice shot, Frost wall, shatter, internal chill, absolute zero, and frost bolt.
+-Star Rank levels now made to reward slightly more stat points. 
+-New Suit! Ice suit: Can you find out where to get it? I placed it somewhere early in the game in a place that requires you to do a lot but grants pretty much no rewards. Once you've found it, you can equip it by going to the changing room, where you will find a new portal!
+-Many monster special attacks now inflict new status conditions such as curse and freeze in exchange for a small amount of effect rating
+-Luigi's coin weapons have lost all their physical attack status points, and they have been instead placed into intelligence
+-New suit! Croak suit: It's located in the Tower of the Frogs, somewhere early in the game. However, you won't be able to get it that early because you need to buy the key from a late shop, as well as already have the frog suit for the shop to stock the key.
+-Croak suit comes with 3 new skills, has frog hygiene instead of the frog suit, also has bubble shield like the frog suit, and permanently applies a status condition which slowly regenerates HP and FP every turn to Mario in battle!
+-New suit: Poltergust 5000 suit: In order to get this suit, you'll have to craft it using 3 Ghost Turbines at Jerry's House with Merry. But how do you get the 3 Ghost Turbines? They're somewhere inside the haunted mansions, and they shouldn't be too hard to find! The King Boo guards it personally in order to make sure no one can utilize it's power.
+-Poltergust 5000 suit comes with 3 new skills, and has 2-3 more skills from the original Poltergust 3000.
+-New Condition: Fright! This condition will halve special and speed of the target for 3 turns.
