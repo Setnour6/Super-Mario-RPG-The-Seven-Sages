@@ -1,4 +1,22 @@
 - All Pokemon Mystery Dungeon OST
+- beanvalley
+- Beanbean_Castle
+- big boss
+- BGM_COURSE_CLEAR
+- Bowser Battle PM2 & Loop
+- CacklettaBattle
+- castlearea
+- Crystal palace
+- culexwin
+- DryDryOutpost
+- DryDryRuins
+- DX-FungusFarm
+- FF6-_Victory_Fanfare
+- goomvillage
+- Hang_In_There_Peach
+- Kammy Koopa
+- koopa_battle_1.1
+- Koopa_Bros._Theme
 - smrfight
 - smrbatt
 - smrbattv
